@@ -75,13 +75,13 @@ Make sure you have the necessary permissions to execute the file.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
 
 ## Acknowledgements
 
 This program was created with reference to the ncurses library documentation and examples.
 
-For more information on the ncurses library, visit: [https://invisible-island.net/ncurses/](https://invisible-island.net/ncurses/)
+For more information on the ncurses library, visit: [NCURSES](https://invisible-island.net/ncurses/)
 
 ## Author
 
